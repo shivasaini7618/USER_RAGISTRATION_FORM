@@ -1,5 +1,4 @@
 
-To summarize these points for your resume, here's a concise and professional description:
 
 Backend Developer Project: User Registration and Management System
 
